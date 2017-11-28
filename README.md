@@ -6,8 +6,6 @@ A C# wrapper for the [Global Airports DB](http://www.partow.net/miscellaneous/ai
 
     PM> Install-Package GlobalAirports.Net
 
-**THIS HASN'T BEEN DONE YET**
-
 Since this is written atop [.Net Standard](https://docs.microsoft.com/en-us/dotnet/standard/library) [1.0](https://github.com/dotnet/standard/blob/master/docs/versions/netstandard1.0.md), it will run on the following platforms:
 
 * .NET Core 1.0
