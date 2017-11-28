@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>GlobalAirports.Net</id>
+    <version>0.0.2</version>
+    <title>GlobalAirports.Net</title>
+    <authors>Shrayas</authors>
+    <owners>Shrayas</owners>
+    <licenseUrl>https://github.com/shrayasr/GlobalAirports.Net/blob/master/LICENSE</licenseUrl>
+    <projectUrl>https://github.com/shrayasr/GlobalAirports.Net</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>A C# wrapper for the Global Airports DB data.</description>
+    <releaseNotes>Initial release. Aligns with v0.0.2 of the data</releaseNotes>
+    <copyright>Copyright 2017</copyright>
+    <tags>Airports GlobalAirports Wrapper</tags>
+  </metadata>
+</package>
