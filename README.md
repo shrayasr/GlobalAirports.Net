@@ -57,7 +57,7 @@ globalAirports.GetByCity("LONDON");
 Returns airports that exist in the given `country`, or returns an empty list
 
 ```CSharp
-globalAirports.GetByCity("LONDON");
+globalAirports.GetByCountry("INDIA");
 ```
 
 ### Get all airports
