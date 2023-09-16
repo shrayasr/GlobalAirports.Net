@@ -2,6 +2,8 @@
 
 A C# wrapper for the [Global Airports DB](http://www.partow.net/miscellaneous/airportdatabase/) data.
 
+If you want this on [CSV Base](https://csvbase.com/), then access it via [this link](https://csvbase.com/shrayasr/GlobalAirports)
+
 ## Installation
 
     PM> Install-Package GlobalAirports.Net
